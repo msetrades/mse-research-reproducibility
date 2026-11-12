@@ -32,4 +32,4 @@ npm run dev
 
 ## Deployment
 
-The application is deployed at [researchtrace.vercel.app](https://researchtrace.vercel.app). The product is intentionally local-first and does not need Supabase credentials to store users' research records.
+The application is deployed at [mse-research-reproducibility.vercel.app](https://mse-research-reproducibility.vercel.app). The product is intentionally local-first and does not need Supabase credentials to store users' research records.
